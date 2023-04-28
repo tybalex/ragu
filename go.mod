@@ -1,4 +1,4 @@
-module github.com/kralicky/ragu
+module github.com/tybalex/ragu
 
 go 1.18
 
